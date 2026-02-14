@@ -1,6 +1,4 @@
-
 ## Outline
-
 
 [[Description Theory Abstract]]
 
@@ -23,6 +21,5 @@
 [[Description Theory Chapter 9]]
 
 [[Description Theory Chapter 10]]
-'
 
-[[9b chapter]]
+[[archive/Chapter 9 - alternative draft]]
