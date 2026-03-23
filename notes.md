@@ -134,6 +134,58 @@ Anything can only be described by being distinguished from what it is not. That 
 - In ordinary English, a "thing" is understood in DT as a context of contrasts.
 - The contrasts that make up that context are what the theory is describing.
 
+## Clarification On What Unifies A Thing
+
+- A thing is unified by the context in which it is described.
+- The same collection of contrasts can be unified differently under different descriptive contexts.
+- For example, in the context of furniture in a room, a collection of contrasts can form a unified `chair`.
+- In a different context, such as occupied space versus unoccupied space, that same collection may not be differentiated as a chair at all.
+- This means unity is context-relative within DT rather than fixed independently of description.
+
+## Clarification On The Status Of Context
+
+- In DT, context does not have a separate special ontological status.
+- Context is just another thing/context at a higher order.
+- There are therefore contexts within contexts rather than a strict divide between ordinary things and a distinct class of organizing containers.
+- The difference is one of descriptive level, not of kind.
+
+## Clarification On Indefinite Decomposition
+
+- In DT, description is indefinitely decomposable.
+- A local limit in description does not mean that contrasts cease to exist.
+- It only means that, within the current descriptive context, the next sub-descriptions may be ambiguous, undefined, or not yet specified.
+- For example, a room may be decomposed into a door, then a door handle, then a point in space such as `(point_xyz)`.
+- Even if the next level is not explicitly labeled or worked out, the thing is still understood as constituted by a context of contrasts.
+- So descriptive stopping points are practical or contextual limits, not proof that the underlying contrast structure has ended.
+
+## Clarification On Ambiguity
+
+- In DT, ambiguity is not merely a failure of description; it can be part of what defines a context.
+- A context may contain elements that are interchangeable relative to that context because they do not differ in any way that matters to the current description.
+- For example, in the context of a white sheet of paper, points on the paper may be indistinguishable if their spatial location is not being taken into account.
+- In that case, swapping two such points would not change the definition of the paper within that context.
+- When describing a point in that paper-context, any point that satisfies the relevant contrastive role may be sufficient.
+- Ambiguity therefore belongs to the structure of a context whenever multiple possible sub-descriptions are equivalent relative to the active contrasts.
+
+## Clarification On Identity Across Time
+
+- In DT, identity across time is also relative.
+- There is no fixed self-standing thing persisting underneath description.
+- What appears as the same thing across time is a context of descriptions related to another context from a different temporal situation.
+- A present description may use a past description as its relative background or comparison-context.
+- Both the past and the present are themselves contexts of contrast rather than access to an underlying permanent object.
+- Temporal identity is therefore a relation between contexts, not proof of a timeless substance.
+
+## Clarification On Sameness Judgments
+
+- Judgments of sameness depend on the active context.
+- Sameness does not require exact preservation of all contrasts across moments.
+- A context can preserve continuity between descriptions even when some features change.
+- In a dream, for example, a picked-up apple may become a teapot while still being treated as the same picked-up thing within the dream-context.
+- In that case, `(thing picked up)` does not contrast with `(thing being held)` strongly enough to break the continuity judgment, even though other contrasts have shifted.
+- This means identity and sameness in DT are context-relative continuity judgments, not absolute matches of substance or properties.
+- No additional special term is currently needed for this; it is another expression of context in DT.
+
 ## Current Project State Judgment
 
 These are process judgments for editorial planning, not approved theory claims.
@@ -180,6 +232,73 @@ This is a planning judgment, not a fixed decision.
 - The image / space / tone material may be a useful bridge for readers who think visually.
 - A first credible paper may need to aim for conceptual clarity rather than sweeping disciplinary reach.
 
+## Current Framing Decision
+
+- The safest current framing is to present DT first as a theory of description rather than as a direct theory of reality.
+- The manuscript can argue that DT explains descriptions of reality without initially asserting that reality itself must obey DT in a strong metaphysical sense.
+- This allows the theory to preserve its examples and explanatory ambition while reducing unnecessary overreach.
+- Stronger metaphysical implications can be treated later as a further inference, not the opening posture of the work.
+
+## Current Classification Judgment
+
+- Core: the logical development of DT's terms, definitions, and mechanics.
+- Core includes the explanatory structure of the theory, including concepts such as contrast, context, notation, complete definition, pure contrast, and flow.
+- Application begins where the manuscript moves from explaining the mechanics to demonstrating how those mechanics can model domains such as space, tone, hue, saturation, 4D spatial description, objects with descriptive qualities, and models of self such as the Buddhist five aggregates.
+- The purpose of the application material is to show that varied forms of description are consistent with DT.
+- Speculation begins where the manuscript moves into metaphysical assertions or ties to fields where Liam does not yet have enough background to defend the claims rigorously.
+
+## Current Structural Judgment
+
+- The transition from core explanation to application appears to begin in Chapter 4.
+- Chapters 1-3 are currently understood as the development of the core mechanics.
+- Chapter 4 begins showing implications and applications of those mechanics rather than introducing wholly new foundational machinery.
+- Space, tone, hue, saturation, and similar material should therefore be treated primarily as demonstrations of DT's reach.
+- Core terms and features should be introduced clearly and matter-of-factly early on, rather than only emerging indirectly through notation or later examples.
+
+## Clarification On Flow
+
+- Flow belongs in the core mechanics of DT.
+- It is understood as an emergent process arising from the already established principles rather than as a separate optional add-on.
+- Flow should be presented as a culmination of the basic principles, not merely as a bridge to applications.
+- Chapter 3 therefore remains part of the core explanatory structure rather than an application chapter.
+
+## Current Judgment On Consciousness Material
+
+- The consciousness / self material should be handled as application rather than as proof of metaphysical claims.
+- The safest approach is to stay grounded in model building rather than assertion.
+- A model of experience may be borrowed from Early Buddhism because it offers a broad and useful classification of experience.
+- The manuscript should present that framework as a borrowed model, not as an assertion that Buddhist doctrine is being authoritatively interpreted or proven by DT.
+- The discussion should explicitly note that the definition of the consciousness aggregate is debated and that the manuscript is using a specific working interpretation for modeling purposes.
+- This material can remain readable if the paper clearly separates: the borrowed model, DT's representation of that model, and any further philosophical implications.
+
+## Current Editorial Policy On Application And Speculation
+
+- Application sections should take a cautious tone and stay focused on the modeling goal.
+- Their task is to show that DT can represent or organize a domain of description, not to overclaim that the domain is thereby explained exhaustively or proven true.
+- Stronger metaphysical, cross-disciplinary, or weakly supported claims should be moved into a clearly marked speculation section.
+- This separation is part of keeping the manuscript readable, defensible, and useful for future evaluation.
+
+## Current Judgment On Probability And Late Speculation
+
+- Probability should be treated as speculation rather than as part of the defended application layer.
+- A limited claim may remain that Flow suggests a way probability could arise from the model, but stronger probability claims should not be used as a legitimacy strategy.
+- The later speculative section can serve as a space for ideas worth preserving, pondering, and testing rather than claims already established by the manuscript.
+- One purpose of that section is to leave clear prompts for future human readers or future AI systems to question, examine, and possibly develop further.
+- The speculative material therefore has value even when it is not presented as validated.
+
+## Current Judgment On Quantum Material
+
+- Quantum material should be treated as speculation and labeled explicitly as such.
+- The manuscript can state that Liam, as a novice, hears familiarities between quantum oddities and DT's framework.
+- The point of including this material is not to claim physics expertise or validation, but to preserve lines of thought that seem unexpectedly coherent within DT.
+- This section should present these as suggestive parallels or thought prompts rather than defended scientific conclusions.
+
+## Project Goal
+
+- The goal is to create complete documentation of DT that is readable to humans and also legible to AI systems.
+- This should allow future readers, including stronger future models, to ask deeper questions about the scientific or philosophical validity of the more speculative aspects.
+- Clarity, explicit definitions, and careful separation of claim strength are therefore part of the project's long-term usefulness.
+
 ## Usefulness Hypotheses To Test
 
 These are candidate ways the idea might prove useful.
@@ -198,11 +317,35 @@ These are candidate ways the idea might prove useful.
 - The project should not overstate concrete applications until stronger examples or clearer domains of use are identified.
 - For now, usefulness may be better framed as explanatory scope and unification rather than direct applied utility.
 
+### Preferred Value Statement
+
+Description Theory is a unifying framework for description across multiple domains. It proposes that language, measurement, perception, images, sound, and other forms of representation can all be understood through a shared structure of relational contrast. The value of this framework is not that it collapses these domains into one, but that it offers a common way of analyzing how each of them identifies things through difference.
+
+### Placement Judgment
+
+- The value statement should appear in both the abstract and the introduction.
+- In the abstract, it should appear in compressed form as part of the paper's statement of significance.
+- In the introduction, it should appear in fuller form as the answer to why DT matters and what kind of theory it is.
+
+### Preferred Short Abstract Version
+
+Description Theory is a unifying framework for description that proposes a shared logic of relational contrast across language, measurement, perception, images, sound, and other forms of representation.
+
+## How To Evaluate DT's Value
+
+- Do not start by asking for a practical application in the narrow engineering sense.
+- First ask whether DT provides a clearer and more general account of how description works.
+- Then ask whether DT can unify very different domains of description under one framework.
+- Only after that ask whether any concrete applications or downstream uses follow.
+- A likely early value claim is explanatory and organizational rather than directly instrumental.
+
 ## Reader Tooling
 
 - `viewer.html` now exists as a simple manuscript browser for this repository.
 - The viewer is for navigation and reading only; it does not change theory content.
-- It can read files directly when served by a local web server, or by selecting the repo folder in the browser when opened locally.
+- It now includes an embedded snapshot of the main repository documents so files load by default when opened directly.
+- It can also read the current directory files when served by a local web server, or by selecting the repo folder in the browser for live loading.
+- `open-viewer.bat` starts a local server in the repo folder so `viewer.html` can live-load the current files automatically.
 - `Glossary.md` now exists as an alphabetized reference for core DT terms.
 
 ## Parking Lot For Speculation
@@ -244,18 +387,19 @@ Work through these one at a time.
 
 - [x] Define the smallest defensible core of Description Theory.
 - [ ] Write DT in plain language with no special terminology.
-- [ ] Decide which current claims are core, extension, or speculation.
+- [x] Decide which current claims are core, extension, or speculation.
+- [x] Decide whether DT should be framed first as a theory of description or a theory of reality.
 - [x] Clarify exactly what `(Foreground) > (Background)` means.
 - [x] Clarify what `~x` means in the theory.
 - [x] Clarify what counts as a "pure contrast" statement.
 - [ ] Decide whether DT's value is best framed as explanatory scope, unification, metaphysical implication, or practical use.
 - [x] Clarify what "complete definition" means in DT.
 - [x] Decide whether `Thing` and `Context` should remain nearly equivalent.
-- [ ] Clarify what `Flow` means and whether it belongs in the core paper.
-- [ ] Decide how to handle consciousness material.
-- [ ] Decide how to handle reality / ontology claims.
-- [ ] Decide how to handle probability material.
-- [ ] Decide how to handle quantum material.
+- [x] Clarify what `Flow` means and whether it belongs in the core paper.
+- [x] Decide how to handle consciousness material.
+- [x] Decide how to handle reality / ontology claims.
+- [x] Decide how to handle probability material.
+- [x] Decide how to handle quantum material.
 - [ ] Identify possible real uses or applications.
 - [ ] Choose a first target audience.
 - [ ] Build an outline for a disciplined version of the paper.
