@@ -18,6 +18,16 @@ The current working section order is:
 
 ## 2.1 Description as Contrast
 
+### Canonical Base Draft
+
+Description Theory begins from the claim that a description is possible only where there is contrast. To describe something is to distinguish it from what it is not. In this sense, description is not limited to language. It includes any act or structure in which one thing is indicated against another: in perception, in measurement, in images, in sound, and in conceptual thought.
+
+A description therefore involves two roles: what is being indicated, and that against which it is indicated. These are later formalized in DT as foreground and background. At this stage, the essential point is that description depends on difference. Without contrast, there is nothing to pick out, distinguish, or identify.
+
+This is why contrast is fundamental in DT. It is not an added feature of description, but the condition that makes description possible at all. The same basic structure appears across many domains. We perceive light by contrast with dark, sound by contrast with silence, one position by contrast with another, and one concept by contrast with other possible concepts.
+
+DT treats this recurring structure as the basis for a general account of description. The formal notation introduced in the next section is meant to express that structure clearly and consistently.
+
 ### Existing Draft Material
 
 #### Draft Layer A

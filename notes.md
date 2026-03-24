@@ -239,6 +239,8 @@ These are process judgments for editorial planning, not approved theory claims.
 - Then compare overlapping versions of each section one by one.
 - Then merge each section into a canonical base layer in controlled discussion.
 - Only after the canonical base exists should clearly superseded draft material be removed.
+- If an idea or section is removed from a chapter draft, park it in `notes.md` for later review.
+- Parked material should later be judged as one of: belongs in another section, has already been covered elsewhere, should remain speculative, or should be dropped.
 
 ### Proposed Major Sections For Chapter 2
 
