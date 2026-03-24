@@ -63,47 +63,33 @@ DT treats this recurring structure as the basis for a general account of descrip
 
 ## 2.2 Notation and How to Read It
 
-### Outline Material Already Present
+### Canonical Base Draft
 
-- Present the notation used in DT upfront.
-- Parentheses `()` denote Things or contexts.
-- The greater-than symbol `>` represents contrast between foreground and background.
-- The negation symbol `~` denotes the complement of a Thing.
-- Include simple examples and emphasize the importance of consistent notation.
+The previous section introduced the basic claim that description depends on contrast. DT uses a simple notation to express that structure more clearly and consistently.
 
-### Existing Draft Material
+At its most basic, a description in DT is written as:
 
-#### Draft Layer A
+`(Foreground) > (Background)`
 
-- `()` encloses a Thing or a Context.
-- `>` represents a contrast between a foreground and a background.
-- `~` denotes the complement or negation of a Thing.
-- Example: `(A) > (B)` means Thing `A` is foreground against Thing `B` as background.
+This notation indicates not only difference, but order within a description. It shows what is being described and what it is being described against.
 
-#### Draft Layer B
+The symbols are simple, but each has a specific role.
 
-- The fundamental notation is `(Foreground) > (Background)`.
-- Foreground is the element in focus.
-- Background is the element or setting it is contrasted against.
-- This is presented as the basic descriptive unit of the theory.
+- `()` marks a thing in the description
+- `>` indicates contrast
+- `>` also indicates the order of the description: foreground first, background second
 
-#### Draft Layer C
+This means that the notation does more than show that two things differ. It shows which thing is in focus and which thing serves as the relative context for that focus. In this sense, `(Foreground) > (Background)` is a directed descriptive form, not just a statement that two things are unequal.
 
-- The notation system is presented formally as a representation of contrast.
-- Both foreground and background are said to be Things/contexts.
-- The notation is treated as flexible enough for simple, nested, temporal, spatial, and abstract descriptions.
-
-### Examples Already Present
+Simple examples include:
 
 - `(Light) > (Dark)`
 - `(Tree) > (Forest)`
-- `(Red Apple) > (Green Background)`
 - `(Whisper) > (Silence)`
-- `(((Button) > (~Button)) > (~Shirt)) > (~Man)`
 
-### Notes For Later Merge
+In each case, the first term is what is being indicated, and the second term is the relative context against which it is distinguished.
 
-- This section should formalize the symbols only after the reader has been reminded what a description is conceptually.
+The notation can also be extended to more complex descriptions, including nested and multi-level structures. Those developments will be introduced later in the chapter. For now, the important point is how to read the basic form: a description in DT is written as a focused thing contrasted against its relative background.
 
 ## 2.3 `~x` and the Relevant Background
 

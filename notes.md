@@ -267,6 +267,11 @@ These are process judgments for editorial planning, not approved theory claims.
 - [ ] Decide whether `Think` / `Thinks` still belongs in the core development.
 - [ ] Decide which examples in Chapter 2 best fit the clarified theory.
 
+### Parked From Chapter 2.2
+
+- Decide later whether abstract examples such as justice, freedom, order, or chaos belong anywhere in Chapter 2.
+- Decide later whether stronger phrasing such as "basic atom" of description is worth restoring anywhere, or should be dropped entirely.
+
 ## Current Working Audience Judgment
 
 This is a planning judgment, not a fixed decision.
