@@ -1,6 +1,6 @@
 # 1. Introduction
 
-Description Theory (DT) begins from a simple claim: anything can only be described by being distinguished from what it is not. This claim applies not only to language, but also to measurement, perception, images, sound, and other forms of representation. DT proposes that these domains share a common descriptive structure grounded in relational contrast.
+Description Theory (DT) begins from a simple claim: anything can only be described by being distinguished from what it is not. This claim applies not only to language, but also to measurement, perception, images, sound, and other forms of representation. DT proposes that different forms of description may share a common underlying logic.
 
 This chapter introduces the project, states its starting claim, explains its scope, and shows how the rest of the manuscript will proceed. The aim here is not yet to present the full mechanics of the theory, but to make clear what kind of theory DT is and why it may be worth developing.
 
@@ -20,13 +20,13 @@ The starting claim of DT is straightforward:
 
 If there were no difference between a thing and its surrounding context, there would be nothing to indicate, measure, perceive, or describe. Description depends on contrast.
 
-This is the starting point, not yet the full conclusion of the theory. DT develops from this claim toward a stronger thesis: that a thing may be fully definable through relational contrast alone, without requiring appeal to an independently self-grounding substance that cannot itself be defined. That stronger thesis is not assumed at the outset. It is what the theory aims to build toward.
+This is the starting point, not yet the full conclusion of the theory. DT develops from this claim toward a stronger thesis about how things are defined. That stronger thesis is not assumed at the outset. It is something the theory aims to build toward through its later concepts and examples.
 
 ## 1.3 What DT Means by Description
 
 In DT, a description is not just a sentence in language. A description is any act or structure in which one thing is indicated relative to what it is not.
 
-At the most basic level, DT treats description as contrast between a foreground and a background. In later chapters this relation is expressed formally in notation such as `(x) > (~x)`, where `(x)` is the thing being described and `(~x)` is the relevant non-`x` background against which it is distinguished.
+At the most basic level, DT treats description as contrast between a foreground and a background. Later chapters introduce the formal notation used to express this relation more precisely.
 
 This basic pattern appears across many domains:
 
@@ -38,11 +38,9 @@ This basic pattern appears across many domains:
 
 DT therefore begins with the claim that description is contrastive before it is linguistic, disciplinary, or domain-specific.
 
-## 1.4 Things, Contexts, and Relational Definition
+## 1.4 Things and Definition
 
 One of DT's central commitments is that a thing is not defined in isolation. A thing is defined through the context of contrasts that make it distinguishable.
-
-In the formal language of the theory, `context` is the more precise term, while `thing` is the ordinary-language term used for readability. A thing and a context are not treated as fundamentally different kinds of entities. A thing is a context of contrasts.
 
 This means that definition is relational. To define a tree, for example, is not to uncover a hidden inner essence apart from all relation. It is to give an account of the structured differences that make the tree this thing rather than something else: its shape, position, material qualities, boundaries, relations to surrounding elements, and so on. These descriptions can be elaborated further into sub-descriptions, and those into further sub-descriptions again.
 
@@ -50,7 +48,7 @@ DT treats this decomposition as indefinite. A practical stopping point in descri
 
 ## 1.5 What Description Theory Is Claiming
 
-At its safest and most defensible level, DT is a theory of description. It proposes that language, measurement, perception, images, sound, and other forms of representation can be understood through a shared logic of relational contrast.
+At its safest and most defensible level, DT is a theory of description. It proposes that language, measurement, perception, images, sound, and other forms of representation can be understood through a shared logic of difference.
 
 This is why DT can be described as a unifying framework for description across multiple domains. Its value is not that it collapses all domains into the same content, but that it offers a common way of analyzing how each of them identifies what something is by distinguishing it from what it is not.
 
@@ -78,8 +76,8 @@ This approach is deliberate. It keeps the theory readable, disciplined, and open
 
 The structure of the manuscript follows the logical development of the theory.
 
-- Chapter 2 defines the formal terms and notation of DT, including thing, context, contrast, description, and codefinition.
-- Chapter 3 develops the core mechanics further and introduces Flow as an emergent consequence of the established principles.
+- Chapter 2 defines the formal terms and notation of DT and lays out the basic principles of the theory.
+- Chapter 3 develops the core mechanics further and introduces Flow as a later concept that emerges from those principles.
 - Chapter 4 begins the application layer by showing how the core mechanics can model domains such as space, tone, hue, saturation, and images.
 - Later chapters extend the modeling work into experience, selfhood, and other domains, while stronger metaphysical, probabilistic, and quantum claims are handled with increasing caution and, where needed, explicitly marked as speculative.
 

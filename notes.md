@@ -223,6 +223,48 @@ These are process judgments for editorial planning, not approved theory claims.
 - Build a clearer path for a reader who has no prior buy-in.
 - Identify examples where DT does real explanatory work rather than simply restating a contrast.
 
+## Chapter 2 Notes
+
+- Chapter 2 currently contains multiple stacked draft layers rather than one canonical chapter.
+- It includes outline material, repeated full prose sections, and assistant-dialogue residue that should eventually be removed.
+- Several definitions in the current draft do not match the clarified theory in `notes.md`.
+- The chapter currently moves too quickly from basic notation into advanced concepts and stronger claims.
+- Flow and related later mechanics appear inside Chapter 2, but current project structure says Chapter 3 should own that material.
+
+### Chapter 2 Canonicalization Method
+
+- Do not throw away repeated material immediately.
+- First decide the major sections that Chapter 2 should contain.
+- Then sort the repeated draft material into those section buckets.
+- Then compare overlapping versions of each section one by one.
+- Then merge each section into a canonical base layer in controlled discussion.
+- Only after the canonical base exists should clearly superseded draft material be removed.
+
+### Proposed Major Sections For Chapter 2
+
+- 2.1 Notation and how to read it
+- 2.2 Description as contrast
+- 2.3 `~x` and the relevant background
+- 2.4 Thing and context
+- 2.5 Complete definition and indefinite decomposition
+- 2.6 Codefinition
+- 2.7 Simultaneous and equal consideration
+- 2.8 Nesting and descriptive structure
+- 2.9 Bridge to Chapter 3
+
+### Chapter 2 Specific Issues To Address One By One
+
+- [ ] Decide what the canonical Chapter 2 base layer is and which duplicated sections should be treated as superseded draft material.
+- [ ] Clarify exactly how Chapter 2 should define `~x`.
+- [ ] Clarify exactly how Chapter 2 should define `Thing` and `Context`.
+- [ ] Decide whether Chapter 2 should still call `Thing` a fundamental unit.
+- [ ] Decide the clean section order for Chapter 2.
+- [ ] Decide how Chapter 2 should handle codefinition.
+- [ ] Decide how Chapter 2 should handle simultaneous and equal consideration.
+- [ ] Decide whether Flow should be removed from Chapter 2 entirely or left only as a brief bridge to Chapter 3.
+- [ ] Decide whether `Think` / `Thinks` still belongs in the core development.
+- [ ] Decide which examples in Chapter 2 best fit the clarified theory.
+
 ## Current Working Audience Judgment
 
 This is a planning judgment, not a fixed decision.
@@ -254,6 +296,8 @@ This is a planning judgment, not a fixed decision.
 - Chapter 4 begins showing implications and applications of those mechanics rather than introducing wholly new foundational machinery.
 - Space, tone, hue, saturation, and similar material should therefore be treated primarily as demonstrations of DT's reach.
 - Core terms and features should be introduced clearly and matter-of-factly early on, rather than only emerging indirectly through notation or later examples.
+- Chapter 1 should remain a general introduction that prepares the reader rather than carrying too many technical specifics.
+- Chapter 2 should carry the formal definitions, notation, and more exact theory language.
 
 ## Clarification On Flow
 
