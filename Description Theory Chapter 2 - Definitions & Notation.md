@@ -28,39 +28,6 @@ This is why contrast is fundamental in DT. It is not an added feature of descrip
 
 DT treats this recurring structure as the basis for a general account of description. The formal notation introduced in the next section is meant to express that structure clearly and consistently.
 
-### Existing Draft Material
-
-#### Draft Layer A
-
-- Contrast is the fundamental difference or distinction between Things.
-- Description captures the contrast between a foreground and a background.
-- Description functions to define, communicate, and contextualize.
-
-#### Draft Layer B
-
-- All descriptions rest on a basic logic of contrast.
-- `(Foreground) > (Background)` is presented as the basic descriptive atom.
-- DT is described as a framework for making this logic explicit across domains.
-
-#### Draft Layer C
-
-- A Description is an expression of contrast between a foreground and a background.
-- Description is treated as the fundamental unit of representation within DT.
-- The role of description is to build Things, express relationships, and preserve context.
-
-### Examples Already Present
-
-- `(Hot) > (Cold)`
-- `(Teacher) > (Student)`
-- `(Up) > (Down)`
-- `(Now) > (Then)`
-- `(Leader) > (Follower)`
-
-### Notes For Later Merge
-
-- This section should become the conceptual bridge from Chapter 1 into the formal chapter.
-- It should stay broad enough to orient the reader, but precise enough to support the notation that follows.
-
 ## 2.2 Notation and How to Read It
 
 ### Canonical Base Draft
@@ -93,38 +60,23 @@ The notation can also be extended to more complex descriptions, including nested
 
 ## 2.3 `~x` and the Relevant Background
 
-### Existing Draft Material
+### Canonical Base Draft
 
-#### Draft Layer A
+In DT, a description does not only indicate what is in focus. It also implies what that focus is being distinguished from. The symbol `~` is used to mark this relative non-`x` background.
 
-- `~` is described as complement or negation.
-- `(~A)` is given as "not A."
-- This draft tends to treat `~x` as abstract negation.
+In its basic form, `~x` should be read as what is not `x` within the active description. This does not mean only abstract logical negation. In DT, `~x` names the relevant background against which `(x)` is being described.
 
-#### Draft Layer B
+This is why a form such as `(x) > (~x)` is important. It expresses a description in which a thing is distinguished from its non-`x` background. The foreground is not described in isolation, but in relation to what it is not.
 
-- `(~Thing)` is presented as what the Thing is not.
-- `(Apple) > (~Apple)` is used to express a boundary between Apple and non-Apple.
-- This draft often treats `~Thing` as everything that is not the thing.
+Examples include:
 
-#### Draft Layer C
-
-- `~` is said to represent the complement within the context.
-- Nested examples use `(~Button)`, `(~Shirt)`, and `(~Man)`.
-- Some explanations start to move toward a contextual rather than merely logical reading.
-
-### Examples Already Present
-
-- `(Thing) > (~Thing)`
+- `(Apple) > (~Apple)`
 - `(Inside) > (~Inside)`
 - `(Light) > (~Light)`
-- `(Teacher) > (~Teacher)`
-- `(Button) > (~Button)`
 
-### Notes For Later Merge
+In each case, the notation indicates that the thing in focus is defined through contrast with the relevant field of what it is not. The exact content of `~x` depends on the context of the description, but its role remains the same: it provides the non-`x` background that makes the description of `(x)` possible.
 
-- Current `notes.md` clarifies that `~x` should be handled as the relevant non-`x` background, not merely abstract negation.
-- This section will need careful rewriting, but the existing formulations are preserved here for comparison.
+This becomes especially important in later sections, where DT develops more precise claims about definition, context, and descriptive completeness. For now, the essential point is that `~x` should be understood as the relevant non-`x` background of a description, not merely as a formal symbol of negation.
 
 ## 2.4 Thing and Context
 

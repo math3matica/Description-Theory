@@ -272,6 +272,10 @@ These are process judgments for editorial planning, not approved theory claims.
 - Decide later whether abstract examples such as justice, freedom, order, or chaos belong anywhere in Chapter 2.
 - Decide later whether stronger phrasing such as "basic atom" of description is worth restoring anywhere, or should be dropped entirely.
 
+### Parked From Chapter 2.3
+
+- Decide later whether the manuscript should explicitly distinguish between `~x` as the relevant non-`x` background within a context and `~x` as the total complement in a maximal description.
+
 ## Current Working Audience Judgment
 
 This is a planning judgment, not a fixed decision.
