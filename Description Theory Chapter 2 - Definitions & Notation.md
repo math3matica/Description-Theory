@@ -104,35 +104,27 @@ This also means that contexts can exist within contexts. A thing may contain fur
 
 ## 2.5 Complete Definition and Indefinite Decomposition
 
-### Existing Draft Material
+### Canonical Base Draft
 
-#### Draft Layer A
+If a thing is a context of descriptions, then defining a thing means more than naming it once. In DT, a complete definition is not the identification of a hidden inner essence. It is a sufficient account of a thing through the contrasts that define it.
 
-- A Thing is defined through multiple descriptions taken together.
-- Omitting descriptions alters the Thing being described.
+This means that a thing is defined by a structured set of descriptions taken together. No single description is enough on its own. A chair, for example, is not fully defined merely by saying that it has a seat. It is defined through the wider context of contrasts that make it this thing rather than something else.
 
-#### Draft Layer B
+```text
+(Chair):
+{ (Seat) > (~Seat),
+  (Backrest) > (~Backrest),
+  (Legs) > (~Legs),
+  ... }
+```
 
-- A chair example is used to argue that a complete description requires all relevant component descriptions.
-- The chapter repeatedly uses examples such as seat, backrest, legs, and arms.
+If relevant descriptions are omitted, the thing being described changes. A context that includes a seat but not a backrest may no longer describe a chair in the same sense. In this way, completeness matters because the thing is given by the context of its defining contrasts.
 
-#### Draft Layer C
+At the same time, any description can be decomposed further. A chair may be described through parts; those parts may be described through smaller parts; and those may be described through still more specific contrasts. DT therefore treats description as indefinitely decomposable.
 
-- A Thing is repeatedly described as a context of descriptions.
-- Nested examples suggest that descriptions can be elaborated into smaller parts.
-- The current draft does not yet clearly organize indefinite decomposition as its own section, but the raw material is present.
+This does not mean that every description must always be expanded without end. In practice, descriptions stop where a given context has said enough for its purpose. But a practical stopping point does not mean the contrastive structure has ended. It means only that the current description has reached its working limit.
 
-### Repeated Example Material
-
-- chair with seat / backrest / legs / arms
-- house / room style examples
-- button on shirt on man
-- examples where omission changes the resulting described thing
-
-### Notes For Later Merge
-
-- This section will need direct integration with the clarified notes on complete definition and indefinite decomposition.
-- It is one of the places where the current discussion is more precise than the manuscript draft.
+For this reason, DT treats complete definition and indefinite decomposition as compatible. A thing can be sufficiently defined within a context, while still remaining open to further decomposition into more specific contrasts.
 
 ## 2.6 Codefinition
 

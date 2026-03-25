@@ -282,6 +282,11 @@ These are process judgments for editorial planning, not approved theory claims.
 - Decide later whether the curly-brace listing style for sub-descriptions needs explicit explanation in Chapter 2 or belongs in a notation appendix / later note.
 - Decide later whether `2.4` should explicitly state that the unity of a thing is context-relative.
 
+### Parked From Chapter 2.5
+
+- Decide later whether Chapter 2 should include a second example besides `chair` for complete definition, or keep this section intentionally narrow.
+- Decide later whether the manuscript should explicitly distinguish between sufficient definition within a context and maximal definition across all possible contrasts.
+
 ## Current Working Audience Judgment
 
 This is a planning judgment, not a fixed decision.
