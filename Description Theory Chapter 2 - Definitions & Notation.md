@@ -80,25 +80,15 @@ This becomes especially important in later sections, where DT develops more prec
 
 ## 2.4 Thing and Context
 
-### Existing Draft Material
+### Canonical Base Draft
 
-#### Draft Layer A
+In DT, a thing is not understood as something defined in isolation. A thing is understood through the contrasts that make it distinguishable. For this reason, DT treats a thing as a context of descriptions.
 
-- A Thing is any element that can be described or defined within a context.
-- Things are described as basic building blocks of description.
-- Context is described as an environment or setting where descriptions reside.
+Here, `context` is the more formal term, while `thing` is the ordinary-language term. They do not refer to two different kinds of entity. In DT, a thing is a context, and a context is what a thing is when treated formally.
 
-#### Draft Layer B
+This means that a thing is not a hidden substance standing behind its description. It is the structured context of contrasts through which it is defined. What we call a thing in ordinary language is, in DT, a context of descriptions that together distinguish it from what it is not.
 
-- A Thing is explicitly defined as a context of descriptions.
-- The example of a chair is used to show that a Thing is composed of many descriptive contrasts.
-- This draft moves closer to the clarified theory by treating Thing and Context as effectively the same.
-
-#### Draft Layer C
-
-- A Context is defined as a collection of descriptions that together define a Thing.
-- A Thing itself is said to be a context.
-- The chapter also includes notation examples such as:
+For example, a chair may be described through contrasts such as:
 
 ```text
 (Chair):
@@ -108,11 +98,9 @@ This becomes especially important in later sections, where DT develops more prec
   ... }
 ```
 
-### Notes For Later Merge
+The chair is not defined by any one of these descriptions alone. It is defined by the context formed by them together. In this sense, a thing is not a simple isolated unit, but a structured context of contrast.
 
-- This section contains one of the main conflicts in the older drafts.
-- Some material treats context as a container or environment.
-- Current clarified notes treat thing and context as the same kind of entity, with `context` as the more formal term.
+This also means that contexts can exist within contexts. A thing may contain further descriptive contexts within it, and it may also appear within larger contexts. The difference is one of descriptive level, not of kind.
 
 ## 2.5 Complete Definition and Indefinite Decomposition
 

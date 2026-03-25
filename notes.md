@@ -276,6 +276,12 @@ These are process judgments for editorial planning, not approved theory claims.
 
 - Decide later whether the manuscript should explicitly distinguish between `~x` as the relevant non-`x` background within a context and `~x` as the total complement in a maximal description.
 
+### Parked From Chapter 2.4
+
+- Decide later whether Chapter 2 should explicitly reject calling `Thing` a fundamental unit, or simply avoid that phrase.
+- Decide later whether the curly-brace listing style for sub-descriptions needs explicit explanation in Chapter 2 or belongs in a notation appendix / later note.
+- Decide later whether `2.4` should explicitly state that the unity of a thing is context-relative.
+
 ## Current Working Audience Judgment
 
 This is a planning judgment, not a fixed decision.
