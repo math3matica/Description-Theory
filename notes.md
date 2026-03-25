@@ -287,6 +287,12 @@ These are process judgments for editorial planning, not approved theory claims.
 - Decide later whether Chapter 2 should include a second example besides `chair` for complete definition, or keep this section intentionally narrow.
 - Decide later whether the manuscript should explicitly distinguish between sufficient definition within a context and maximal definition across all possible contrasts.
 
+### Parked From Chapter 2.6
+
+- Decide later whether a brief design or visual-art example should still appear in `2.6`, or whether those examples should be saved for later application chapters.
+- Decide later whether abstract contrast examples such as singular/plural or even/odd belong anywhere later in the manuscript.
+- Decide later whether codefinition should be tied back more explicitly to `(x) > (~x)` in a later sentence or section.
+
 ## Current Working Audience Judgment
 
 This is a planning judgment, not a fixed decision.

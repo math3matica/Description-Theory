@@ -128,37 +128,23 @@ For this reason, DT treats complete definition and indefinite decomposition as c
 
 ## 2.6 Codefinition
 
-### Existing Draft Material
+### Canonical Base Draft
 
-#### Draft Layer A
+DT holds that a description does not define only its foreground. It also defines the background relative to which that foreground appears. This principle is called codefinition.
 
-- Foreground and background mutually define each other.
-- A Thing cannot be described in isolation from its contrast.
+Codefinition means that foreground and background are not independent elements accidentally placed together. Each helps define the other through contrast. A foreground is what it is by not being its background, and the background is what it is by not being that foreground.
 
-#### Draft Layer B
+This is why a thing cannot be described in isolation. To describe anything is already to place it in a contrastive relation. The definition of the thing depends on that relation, not on the thing taken alone.
 
-- Codefinition is presented as the principle that a foreground requires a background for its definition.
-- `(Thing) > (~Thing)` is used as a standard expression.
-- Many examples are used: inside/outside, light/dark, teacher/non-teacher, order/chaos.
-
-#### Draft Layer C
-
-- Codefinition is explained as mutual definition between foreground and background.
-- Visual art, language, and design examples are used.
-- Some application examples blend into simultaneous/equal consideration and complete definition.
-
-### Examples Already Present
+Examples of codefinition include:
 
 - `(Inside) > (Outside)`
 - `(Light) > (Dark)`
-- `(Teacher) > (~Teacher)`
-- `(Portrait Subject) > (Background Elements)`
-- `(Design Element) > (Negative Space)`
+- `(Figure) > (Ground)`
 
-### Notes For Later Merge
+In each case, neither side is fully meaningful on its own within the description. The foreground is understood through its contrast with the background, and the background is understood as that against which the foreground stands out.
 
-- This material is central, but some examples are stronger than others.
-- Visual and perceptual examples likely fit the clarified theory better than binary moral or abstract pairs.
+Codefinition therefore expresses a basic principle of DT: description is relational all the way through. What is in focus and what it is contrasted against are not separately complete units brought together afterward. They are mutually defining elements within the same descriptive act.
 
 ## 2.7 Simultaneous and Equal Consideration
 
