@@ -299,6 +299,12 @@ These are process judgments for editorial planning, not approved theory claims.
 - Decide later whether a second example besides `chair` is needed in `2.7`, or whether that would make the section repetitive.
 - Decide later whether older mathematical or system examples from this section belong in `2.8` instead.
 
+### Parked From Chapter 2.8
+
+- Decide later whether the term `nesting` should still appear anywhere in Chapter 2, or whether `descriptive structure` is sufficient on its own.
+- Decide later whether one additional non-body example of descriptive structure is needed, or whether the `button / shirt / person` example is enough.
+- Decide later whether broader hierarchy examples from earlier drafts belong in later application material rather than Chapter 2.
+
 ## Current Working Audience Judgment
 
 This is a planning judgment, not a fixed decision.

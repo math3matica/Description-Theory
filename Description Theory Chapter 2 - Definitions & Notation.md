@@ -160,43 +160,25 @@ This is why the principle is both simultaneous and equal. The defining contrasts
 
 The principle therefore concerns the integrity of a context. A thing is given by the coordinated relation of its defining contrasts, not by any one of them considered alone.
 
-## 2.8 Nesting and Descriptive Structure
+## 2.8 Descriptive Structure
 
-### Existing Draft Material
+### Canonical Base Draft
 
-#### Draft Layer A
+The previous section argued that the defining contrasts of a thing must be considered together. This raises a further question: how are those contrasts themselves organized? In DT, things are not treated as isolated units. A thing is understood as having internal descriptive structure.
 
-- Nesting is presented as embedding descriptions within descriptions.
-- It is used to represent hierarchical relationships.
+This follows from the earlier claim that a thing is a context of descriptions. If a thing is made of descriptions, and those descriptions can themselves be further described, then the structure of a thing is also a structure of descriptions. Description does not stop at the surface of a thing. It continues within it.
 
-#### Draft Layer B
+This means that description in DT is not flat. A thing may be described through parts, and those parts may be described through further parts or further contrasts. At each level, the same basic logic remains: something is described by being distinguished from what it is not. What changes is not the logic of description, but the level at which the description is being made.
 
-- Contexts and nesting are paired together.
-- Examples include organizational, biological, and linguistic hierarchy.
-
-#### Draft Layer C
-
-- Nesting is presented more formally as layered descriptive structure.
-- The most detailed repeated example is:
+A simple example is a button on a shirt on a person:
 
 ```text
 (((Button) > (~Button)) > (~Shirt)) > (~Man)
 ```
 
-- This section is also where the current draft starts to blur into higher-order context explanations.
+This can be read as a structured description rather than a single flat contrast. The button is first distinguished from what is not the button. That description is then placed within the description of what is not the shirt. That larger description is then placed within the description of what is not the person. In this way, the notation makes visible that the thing being described has internal structure rather than existing as a simple isolated unit.
 
-### Examples Already Present
-
-- fruit context examples
-- animal kingdom hierarchy
-- company / department / team / employee
-- sentence / clause / phrase / word
-- button / shirt / man
-
-### Notes For Later Merge
-
-- This section should probably absorb the best material from the repeated context and notation sections.
-- It will also need to line up with the clarified view that contexts are just higher-order things rather than special containers.
+Descriptive structure therefore shows that contexts are composed of descriptions, and that descriptions are themselves composed of further descriptions. This is one of the strengths of DT: the same descriptive logic can be used to represent both simple contrasts and more complex internal structure without changing its basic form.
 
 ## 2.9 Bridge to Chapter 3
 
