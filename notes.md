@@ -293,6 +293,12 @@ These are process judgments for editorial planning, not approved theory claims.
 - Decide later whether abstract contrast examples such as singular/plural or even/odd belong anywhere later in the manuscript.
 - Decide later whether codefinition should be tied back more explicitly to `(x) > (~x)` in a later sentence or section.
 
+### Parked From Chapter 2.7
+
+- Decide later whether ambiguity and context-relative equivalence should be mentioned briefly inside `2.7`, or left entirely implicit until later discussion.
+- Decide later whether a second example besides `chair` is needed in `2.7`, or whether that would make the section repetitive.
+- Decide later whether older mathematical or system examples from this section belong in `2.8` instead.
+
 ## Current Working Audience Judgment
 
 This is a planning judgment, not a fixed decision.

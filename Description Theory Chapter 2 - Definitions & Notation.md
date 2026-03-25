@@ -148,34 +148,17 @@ Codefinition therefore expresses a basic principle of DT: description is relatio
 
 ## 2.7 Simultaneous and Equal Consideration
 
-### Existing Draft Material
+### Canonical Base Draft
 
-#### Draft Layer A
+If a thing is defined through a context of contrasts, then its defining descriptions must be considered together. DT refers to this as simultaneous and equal consideration.
 
-- All descriptions within a context must be considered simultaneously and equally.
-- This is said to preserve the integrity of the Thing's definition.
+The point of this principle is not that every possible detail must always be stated, but that the relevant defining contrasts of a thing belong to the same descriptive act. A thing is not adequately defined by isolating one contrast and ignoring the others that make it what it is within the active context.
 
-#### Draft Layer B
+For example, if a chair is being described through a context that includes a seat, a backrest, and legs, then those descriptions must be considered together in order to preserve the integrity of the description. If one of those relevant contrasts is removed, the thing being described may change.
 
-- A chair example is used to show that omitting arms changes the described object.
-- Completeness and equal importance are emphasized strongly.
+This is why the principle is both simultaneous and equal. The defining contrasts of a thing are taken together, and none of them can be arbitrarily dismissed while claiming that the same thing has still been fully described.
 
-#### Draft Layer C
-
-- Each description contributes equally to the definition of the Thing.
-- Nested examples are also used to show that multiple levels must be held together.
-
-### Repeated Example Material
-
-- triangle with all sides and angles
-- chair with and without arms
-- house examples
-- computer-system nesting example
-
-### Legacy Material To Decide Later
-
-- Older drafts strongly tie this principle to full completeness.
-- Some of that material may need softening once ambiguity and context-relative equivalence are folded in from `notes.md`.
+The principle therefore concerns the integrity of a context. A thing is given by the coordinated relation of its defining contrasts, not by any one of them considered alone.
 
 ## 2.8 Nesting and Descriptive Structure
 
