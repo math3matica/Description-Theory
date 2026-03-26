@@ -305,6 +305,12 @@ These are process judgments for editorial planning, not approved theory claims.
 - Decide later whether one additional non-body example of descriptive structure is needed, or whether the `button / shirt / person` example is enough.
 - Decide later whether broader hierarchy examples from earlier drafts belong in later application material rather than Chapter 2.
 
+### Parked From Chapter 2.9
+
+- Decide later whether probability language should be completely excluded from the core early chapters, or only postponed until speculation.
+- Decide later whether `Think` / `Thinks` belongs in Chapter 3 at all, or should be moved further back in the manuscript.
+- Decide later whether `descriptive context` remains a useful term in the Flow material, or should be replaced by clearer language.
+
 ## Current Working Audience Judgment
 
 This is a planning judgment, not a fixed decision.

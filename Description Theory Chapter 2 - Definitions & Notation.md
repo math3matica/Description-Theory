@@ -182,37 +182,13 @@ Descriptive structure therefore shows that contexts are composed of descriptions
 
 ## 2.9 Bridge to Chapter 3
 
-### Existing Bridge Material
+### Canonical Base Draft
 
-#### Draft Layer B
+By this point, DT has established a basic descriptive framework. A thing is understood as a context of contrasts, those contrasts must be considered together, and descriptions can themselves have internal structure. But this raises a further question: when many possible descriptions are available within a context, why do some come into focus rather than others?
 
-- A short transitional section already says that once multiple Things coexist in a context, complexity grows quickly.
-- It asks why some descriptions become more prominent than others.
-- It introduces the need for Flow.
+Not every possible contrast becomes foreground at once. Some contrasts are taken up as the focus of description, while others remain background. Once description becomes sufficiently complex, DT therefore requires a further principle to explain how one arrangement of contrasts comes to be foregrounded rather than another.
 
-#### Draft Layer C
-
-- Large amounts of Flow material are currently embedded in Chapter 2.
-- This includes:
-  - Flow itself
-  - asymmetry in descriptive requirements
-  - sufficient background contrast
-  - descriptive context and limit of flow
-  - Think / Thinks
-
-### Current Working Judgment
-
-- Flow should belong to Chapter 3, not Chapter 2.
-- Chapter 2 should keep only a bridge that prepares the reader for the need for Flow.
-- The more advanced Flow material is preserved here for now as source material, but should not remain in the final canonical Chapter 2.
-
-### Advanced Material Currently Parked Here
-
-- Flow in Description Theory
-- no-flow and asymmetry examples
-- descriptive context / limit of flow
-- probability language arising from flow
-- Think / Thinks as theoretical limit material
+The next chapter introduces Flow as the concept meant to address this problem. Flow is not a new theory added from outside DT, but a development of the principles already established here. If Chapter 2 explains the structure of description, Chapter 3 asks how that structure comes to foreground some descriptions rather than others.
 
 ## Next Step For Canonicalization
 
