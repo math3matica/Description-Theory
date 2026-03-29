@@ -311,6 +311,18 @@ These are process judgments for editorial planning, not approved theory claims.
 - Decide later whether `Think` / `Thinks` belongs in Chapter 3 at all, or should be moved further back in the manuscript.
 - Decide later whether `descriptive context` remains a useful term in the Flow material, or should be replaced by clearer language.
 
+## Chapter 3 Notes
+
+- Chapter 3 currently contains multiple stacked draft directions: Flow mechanics, context-expansion exercises, space construction, image/video application, and tone/hue/saturation material.
+- The strongest current role for Chapter 3 is to remain a mechanics chapter focused on Flow.
+- Space, image, video, tone, hue, and saturation material likely belongs in Chapter 4 or later application chapters.
+
+### Parked From Chapter 3.1
+
+- Decide later how much of the original `descriptive context` / `limit of flow` outline belongs in the canonical Flow chapter.
+- Decide later whether Chapter 3 should retain the phrase `descriptive context`, or replace it with clearer wording.
+- Decide later exactly how the Thinks should be introduced at the end of Chapter 3 without making them sound like ordinary things.
+
 ## Current Working Audience Judgment
 
 This is a planning judgment, not a fixed decision.
