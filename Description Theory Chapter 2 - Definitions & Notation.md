@@ -32,31 +32,15 @@ DT treats this recurring structure as the basis for a general account of descrip
 
 ### Canonical Base Draft
 
-The previous section introduced the basic claim that description depends on contrast. DT uses a simple notation to express that structure more clearly and consistently.
-
-At its most basic, a description in DT is written as:
+The previous section introduced the basic premise that description depends on contrast. Description Theory represents a description in the following form:
 
 `(Foreground) > (Background)`
 
-This notation indicates not only difference, but order within a description. It shows what is being described and what it is being described against.
+The parentheses mark the Things participating in the description. The symbol `>` notates a contrast between them. In this notation, the foreground is placed at the open end of the symbol and the background at its pointed end.
 
-The symbols are simple, but each has a specific role.
+For example, `(Tree) > (Forest)` may describe a particular tree in a particular image against the forest around it. It is not a general comparison between trees and forests as categories.
 
-- `()` marks a thing in the description
-- `>` indicates contrast
-- `>` also indicates the order of the description: foreground first, background second
-
-This means that the notation does more than show that two things differ. It shows which thing is in focus and which thing serves as the relative context for that focus. In this sense, `(Foreground) > (Background)` is a directed descriptive form, not just a statement that two things are unequal.
-
-Simple examples include:
-
-- `(Light) > (Dark)`
-- `(Tree) > (Forest)`
-- `(Whisper) > (Silence)`
-
-In each case, the first term is what is being indicated, and the second term is the relative context against which it is distinguished.
-
-The notation can also be extended to more complex descriptions, including nested and multi-level structures. Those developments will be introduced later in the chapter. For now, the important point is how to read the basic form: a description in DT is written as a focused thing contrasted against its relative background.
+The notation can also be used in more complex and nested descriptions, which are introduced later. This section establishes how to read the basic form; how its ordering arises from the structure of Description Theory is developed later.
 
 ## 2.3 `~x` and the Relevant Background
 
@@ -193,3 +177,17 @@ The next chapter introduces Flow as the concept meant to address this problem. F
 ## Next Step For Canonicalization
 
 The next step is to take these sections one by one and merge them into a canonical Chapter 2 base layer, using both the existing draft material and the clarified positions recorded in `notes.md`.
+
+## Editorial Review: Clarifications to Address
+
+| Section | Update? | What seems needed |
+|---|---|---|
+| **2.1 — Description as Contrast** | **No substantive update needed.** | It sets the stage with the basic premise that description requires contrast, as intended. It doesn’t need to prove the later claims about things or reality. |
+| **2.2 — Notation and How to Read It** | **Yes.** | The section calls `(Foreground) > (Background)` a “directed descriptive form.” The clarified view is that this section should introduce `>` as notating contrast, with the foreground at its open end; the directed framing comes later. The `(Tree) > (Forest)` example means a particular tree against the forest in a particular description, not a general comparison between categories. |
+| **2.3 — `~x` and the Relevant Background** | **Small clarification.** | It already says `~x` depends on context and is more than abstract negation, so the core is close. It could more clearly show that `~x` means the case-specific context used to define `x`, not a fixed complement. The chair example makes this concrete: `~Seat` is the rest of that chair, not everything in existence that isn’t a seat. |
+| **2.4 — Thing and Context** | **Yes.** | The equivalence of “thing” and formal “context” is present, but the section should make the relationship more exact: foregrounds and backgrounds are Things; a description is their contrast; Things are composed of descriptions. The chair example’s `~Seat` needs the specific meaning clarified. The sentence about there being no hidden substance should also be considered in light of the distinction between the concise formal account and the fuller ontological treatment in the later human-facing narrative. |
+| **2.5 — Complete Definition and Indefinite Decomposition** | **Substantial clarification needed.** | As written, it can sound as if a definition requires explicitly stating a sufficient set of descriptions. The clarified view is that the context contains the **descriptive space of potential descriptions**; they need not all be stated or realized. This section should also distinguish a context of possible events from a description of a particular event: the die’s possibilities versus “the die rolled 2,” or “I ate dinner” versus the more precise “I ate pasta.” By contrast, changing the context itself—for example, removing the backrest and arms so the chair context becomes a stool—is a change to what the context is, not merely an incomplete account of it. |
+| **2.6 — Codefinition** | **Small clarification.** | The central idea fits: foreground and background mutually define their roles within a contrast. It should be clear that one particular contrast does not define either Thing in every context; the same Things can participate in other descriptions. |
+| **2.7 — Simultaneous and Equal Consideration** | **Yes.** | The current wording emphasizes considering descriptions together, but doesn’t state the equal-probability principle. In a context such as “I am eating dinner,” absent other information such as personal preferences, possible descriptions like pasta, pizza, noodles, and beans have equal probability if one is randomly drawn. All remain available in the whole context. That equal baseline is essential: Flow must arise from the context’s structure, not from an outside reason that already favors one description. |
+| **2.8 — Descriptive Structure** | **Yes.** | The section mentions nested structure, but the clarified meaning is more specific: a Thing is a context/container of descriptions, and each description is itself a contrast between Things that are also containers of descriptions. The button description is within the shirt’s context; the shirt description is within the man’s context. In that example, `~Shirt` means the man’s parts not occupied by the shirt—pants, socks, shoes, hair, face, and so on. The written nesting expresses that containment structure. |
+| **2.9 — Bridge to Chapter 3** | **Yes, modestly.** | “Sufficiently complex” should point to structure beyond the basic `(x) > (~x)` form. Uneven descriptive contexts allow emergent behavior. The bridge can raise the question Flow addresses while making clear that Flow develops from the structure, rather than being an outside principle imposed on it. |
