@@ -16,11 +16,11 @@ The current working section order is:
 
 ## 3.1 Why Flow Is Needed
 
-Chapter 2 explained how descriptions are structured in DT. A Thing was shown to be a context of contrasts, and those contrasts can themselves contain further contrasts. When a context contains many possible descriptions, a question arises: what determines which Thing is foreground and which is background in a description?
+Chapter 2 explained how descriptions are structured in DT. A Thing is a context of contrasts, and those contrasts can themselves contain further contrasts. When a context contains many possible descriptions, a question arises: what determines which Thing is foreground and which is background in a description?
 
-In an equal 1:1 case, each of the two Things is equally likely to be described. This does not make a particular description inconclusive: within that description, one Thing is foreground and the other is background. It does mean that, where the descriptions are symmetrical, neither Thing is favored as foreground.
+In an equal 1:1 case, neither Thing is favored: each is equally likely to be described. Yet a particular description still specifies which Thing is foreground and which is background. The equal case therefore shows that the foreground/background distinction is present even when the structure gives neither Thing greater likelihood.
 
-When an asymmetry enters into descriptions, an emergent property begins directing which Thing is foreground and which is background. This emergent property is called Flow. The following section examines the asymmetry from which it arises; the examples that follow develop how it operates as the descriptive context becomes more complex.
+The question is what changes when an asymmetry enters into the descriptions. In such a context, an emergent property begins to direct what is foreground and what is background. This property is called Flow. The following sections examine how it arises from the structure of descriptions, beginning with asymmetry and developing through the finite cases.
 
 ## 3.2 Asymmetry in Descriptive Demand
 
