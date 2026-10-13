@@ -18,11 +18,11 @@ The current working section order is:
 
 ### Canonical Base Draft
 
-Chapter 2 explained how descriptions are structured in DT. A thing was shown to be a context of contrasts, and those contrasts can themselves contain further contrasts. But once a context contains many possible descriptions, another problem appears: why does one description come into focus rather than another?
+Chapter 2 explained how descriptions are structured in DT. A Thing was shown to be a context of contrasts, and those contrasts can themselves contain further contrasts. When a context contains many possible descriptions, a question arises: what determines which Thing is foreground and which is background in a description?
 
-A context may allow many possible foregrounds. It may allow many possible ways of arranging what is described against what is not. Yet in experience and representation, not everything becomes the focus at once. Some descriptions come forward, while others remain background.
+In an equal 1:1 case, each of the two Things is equally likely to be described. This does not make a particular description inconclusive: within that description, one Thing is foreground and the other is background. It does mean that, where the descriptions are symmetrical, neither Thing is favored as foreground.
 
-DT introduces Flow to address this. Flow is the principle meant to explain why, within a context of many possible descriptions, some are taken up as the focus of description rather than others. Chapter 3 begins from this problem and develops Flow as a consequence of the structure already established in Chapter 2.
+When an asymmetry enters into descriptions, an emergent property begins directing which Thing is foreground and which is background. This emergent property is called Flow. The following section examines the asymmetry from which it arises; the examples that follow develop how it operates as the descriptive context becomes more complex.
 
 ## 3.2 Asymmetry in Descriptive Demand
 
