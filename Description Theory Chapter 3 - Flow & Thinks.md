@@ -16,8 +16,6 @@ The current working section order is:
 
 ## 3.1 Why Flow Is Needed
 
-### Canonical Base Draft
-
 Chapter 2 explained how descriptions are structured in DT. A Thing was shown to be a context of contrasts, and those contrasts can themselves contain further contrasts. When a context contains many possible descriptions, a question arises: what determines which Thing is foreground and which is background in a description?
 
 In an equal 1:1 case, each of the two Things is equally likely to be described. This does not make a particular description inconclusive: within that description, one Thing is foreground and the other is background. It does mean that, where the descriptions are symmetrical, neither Thing is favored as foreground.
