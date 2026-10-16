@@ -214,24 +214,19 @@ By systematically applying these steps, readers can navigate complex contexts an
 
 ## 3.3 Finite Examples of Flow
 
-*Purpose: Work through equal and asymmetric finite contexts, including nested backgrounds, to show how Flow is expressed in the descriptions required for a simple foreground versus a composite foreground.*
+The equal 1:1 case provides a baseline: `(a) > (b)` and `(b) > (a)` are equally likely descriptions, so neither Thing is favored. Each description nevertheless specifies which Thing is foreground and which is background.
 
-## 3.4 Directional and Spatial Contexts
+For an asymmetric finite case, keep `(x)` simple while `(y)` consists of `(a) > (b)` and `(b) > (a)`. With `(x)` as foreground, either `(x) > ((a) > (b))` or `(x) > ((b) > (a))` is sufficient. With `(y)` as foreground against `(x)`, both `((a) > (b)) > (x)` and `((b) > (a)) > (x)` are required to describe the whole foreground context. The first pair are alternatives; the second pair are jointly required.
 
-*Purpose: Present the staged construction of spatial contexts—from iterative one-directional backgrounds through bidirectional and higher-dimensional contexts—and distinguish diagonal associations as separate contexts. The placement of this application material remains open.*
+A symmetrical three-Thing context gives a contrast case. To describe any one of `(a)`, `(b)`, or `(c)` as foreground, the other two form the joint background, with two possible descriptions of that background. This yields six descriptions total, two for each foreground. Because the six are equally likely, no Thing is favored and there is no Flow. Larger nested backgrounds continue the finite progression toward the limit discussed earlier; structural counts alone do not specify finite probabilities.
 
-## 3.5 Thinks
+### References from the Current Draft
 
-*Purpose: Explain the Think as a context-free pure contrast, its theoretical role in composing Things and defining `>`, and its distinction from Flow.*
+*Temporary editorial reference: this former section is retained here for traceability, not as canonical prose.*
 
-## 3.6 Bridge to Chapter 4
+#### Former §3.3 source block — Examples and Clarifications of Flow
 
-*Purpose: Transition from the foundational discussion to later applications and identify where the preserved space, image, tone, hue, saturation, and video material belongs.*
-
----
-
-**Remaining preserved draft/source material begins below. The former §3.2 source block has been moved under §3.2 References; the remaining material is retained for later sectioning.**
-
+````markdown
 ## 3.3 Examples and Clarifications of Flow
 
 ### Grouped Source Material
@@ -755,7 +750,23 @@ Given the complexity of this context, we will outline the process and provide ex
 By following this systematic process, we can expand any context—no matter how complex—into its constituent descriptions, ensuring a comprehensive representation of all possible contrasts within the context. This method allows us to model intricate structures and relationships within Description Theory effectively.
 
 By mastering these techniques, we enhance our ability to utilize Description Theory in various fields, providing a powerful framework for analyzing and representing complex phenomena.
+````
 
+## 3.4 Directional and Spatial Contexts
+
+The spatial construction proceeds in stages. First, one-directional one-dimensionality is built iteratively: each point is the focus against a background formed from preceding point(s). Next comes bidirectional one-dimensionality, in which `(n)` is described in relation to both `(n-1)` and `(n+1)`. Two-dimensionality arises by combining two such bidirectional one-dimensional constructions; further dimensions extend the same principle.
+
+Diagonal relations are not primitive parts of that initial construction. They emerge among established points and form a separate associated context. The points can also be defined through other contexts and used to derive spatial directionality; the derivation need not begin with direction. “Vector-like” is an analogy for the arrangement, not a proposal to use vector operations.
+
+Time in the standard sense is a consistently forward sequence: the current state `(n)` is foreground against `(n-1)`, and the next state continues as `(n+1) > (n)`. This is distinct from bidirectional spatial relations. Spatial, color, texture, and other associated contexts remain distinct but interdependent, so Flow in one does not automatically transfer to another. The placement of these spatial applications in Chapter 3 remains open.
+
+### References from the Current Draft
+
+*Temporary editorial reference: this former section is retained here for traceability, not as canonical prose.*
+
+#### Former §3.4 source block — Directional Emphasis and Ordered Contexts
+
+````markdown
 ## 3.4 Directional Emphasis and Ordered Contexts
 
 ### Grouped Source Material
@@ -1653,7 +1664,21 @@ With color properties integrated into our spatial representations, we can furthe
 - **Perceptual Modeling**: Representing how humans perceive color, brightness, and contrast.
 
 By continuing to apply DT to complex domains, we uncover new insights into the fundamental structures underlying perception and representation.
+````
 
+## 3.5 Thinks
+
+A Think is a theoretical unit: a pure contrast without an associated context. A Thing is theoretically composed of Thinks. For example, if `(a)` is composed of `(c) > (d)` and `(b)` of `(e) > (f)`, then `(a) > (b)` can be expanded as `((c) > (d)) > ((e) > (f))`. Continuing this recursive decomposition without end yields a contrast without an associated context: the Think.
+
+The Think is the theoretical unit that composes a context and provides a definition of `>`. Think and Flow are separate concepts. Flow is the emergent property associated with asymmetry in descriptions; Think is the context-free contrast at the limit of recursive decomposition.
+
+### References from the Current Draft
+
+*Temporary editorial reference: this former section is retained here for traceability, not as canonical prose.*
+
+#### Former §3.5 source block — The Thinks
+
+````markdown
 ## 3.5 The Thinks
 
 ### Grouped Source Material
@@ -1661,7 +1686,19 @@ By continuing to apply DT to complex domains, we uncover new insights into the f
 - The current file contains only outline-level material for `The Think` / `Thinks` in the early Chapter 3 outline.
 - That source material is preserved in `3.1 Why Flow Is Needed`.
 - Current working judgment: the Thinks should remain at the end of Chapter 3 as theoretical limit concepts or atoms of the theory, while still being treated as non-things that do not themselves exist as describable contexts.
+````
 
+## 3.6 Bridge to Chapter 4
+
+Sections 3.1–3.5 establish the motivation for Flow, its emergence from asymmetry, finite examples, directional and spatial contexts, and the theoretical role of Thinks. The remaining draft material proposes applications to space, images, tone, hue, saturation, and video, along with a claim of universality. Those applications are preserved in the references below while their formal status and final chapter placement remain to be decided; they are not treated here as further definitions of Flow or Think.
+
+### References from the Current Draft
+
+*Temporary editorial reference: this former section is retained here for traceability, not as canonical prose.*
+
+#### Former §3.6 source block — Bridge to Chapter 4 and application material
+
+````markdown
 ## 3.6 Bridge to Chapter 4
 
 ### Grouped Source Material
@@ -1721,3 +1758,4 @@ By continuing to apply DT to complex domains, we uncover new insights into the f
 - **Flexibility and Scalability**: The notation accommodates complexity and detail.
 
 ---
+````
