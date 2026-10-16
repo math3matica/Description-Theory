@@ -4,15 +4,16 @@ This chapter is currently arranged as an organizational working draft.
 
 The goal of this version is not yet to present the final canonical Chapter 3. Instead, it groups the existing draft material into a cleaner section structure so the chapter can be revised one section at a time without discarding prior work.
 
-The current working section order is:
+The current proposed section order is:
 
-- 3.1 Why Flow is needed
-- 3.2 Asymmetry in descriptive demand
-- 3.3 Examples and clarifications of Flow
-- 3.4 Directional emphasis and ordered contexts
-- 3.5 The Thinks
+- 3.1 Why Flow Is Needed
+- 3.2 Asymmetry and the Emergence of Flow
+- 3.3 Finite Examples of Flow
+- 3.4 Directional and Spatial Contexts
+- 3.5 Thinks
 - 3.6 Bridge to Chapter 4
-- Address Before Going to Chapter 4
+
+The space, image, tone, hue, saturation, and video material is preserved below for later placement decisions; it is not yet assigned to a canonical section.
 
 ## 3.1 Why Flow Is Needed
 
@@ -22,9 +23,22 @@ In an equal 1:1 case, neither Thing is favored: each is equally likely to be des
 
 The question is what changes when an asymmetry enters into the descriptions. In such a context, an emergent property begins to direct what is foreground and what is background. This property is called Flow. The following sections examine how it arises from the structure of descriptions, beginning with asymmetry and developing through the finite cases.
 
-## 3.2 Asymmetry in Descriptive Demand
+## 3.2 Asymmetry and the Emergence of Flow
 
-### Working Draft
+Flow emerges when descriptions within an associated context are asymmetric. Describing a Thing as foreground requires describing its whole context. A Thing serving as background in a particular description, however, need not be represented through every description in its context. Which descriptions contribute to Flow depends on the associated context; details belonging to another context do not automatically contribute.
+
+For example, keep `(x)` simple while `(y)` consists of `(a) > (b)` and `(b) > (a)`. With `(x)` as foreground, either `(x) > ((a) > (b))` or `(x) > ((b) > (a))` is sufficient. With the whole `(y)` as foreground against `(x)`, both `((a) > (b)) > (x)` and `((b) > (a)) > (x)` are required to describe the foreground context completely. The descriptions available with `(x)` as foreground are alternatives; the descriptions that make up `(y)` as foreground are jointly required.
+
+This difference between alternatives and joint completeness is the structural asymmetry from which Flow emerges: Flow begins directing which Thing is foreground and which is background. The comparison is structural; the counts alone do not establish a finite probability rule. Earlier drafts use “descriptive demand” for this account, but that terminology remains provisional and is retained below as source material rather than treated here as settled terminology.
+
+### References from the Current Draft
+
+*Temporary editorial reference: this source text is retained while §3.2 is developed; it is not canonical prose.*
+
+#### Former §3.2 — Asymmetry in Descriptive Demand
+
+````markdown
+##### Working Draft
 
 Flow in DT depends on an asymmetry in descriptive demand. Descriptive demand means the number of relevant descriptions required for a thing to be described as that thing within a given context.
 
@@ -40,12 +54,12 @@ This can be seen in a simple case such as a chair. If the active context require
 
 The next section turns to examples that show how this asymmetry operates within specific contexts.
 
-### Grouped Source Material
+##### Grouped Source Material
 
 
 ---
 
-#### **Understanding Flow in Description Theory**
+###### **Understanding Flow in Description Theory**
 
 - **Flow** in DT refers to the natural tendency for certain descriptions to become the **foreground** due to asymmetry in descriptive demand between the foreground and background.
 - **Descriptive Demand**: The amount of detail required to fully describe a **Thing** or context.
@@ -54,17 +68,17 @@ The next section turns to examples that show how this asymmetry operates within 
 
 ---
 
-# Understanding Flow in Description Theory: The Role of Context and Relevance
+##### Understanding Flow in Description Theory: The Role of Context and Relevance
 
 ---
 
-## Introduction
+###### Introduction
 
 **Description Theory (DT)** provides a framework for understanding how elements, or **Things**, are perceived and prioritized within a given **context**. A key concept in DT is **flow**, which describes the tendency of one Thing to become the **foreground** over another based on differences in **descriptive demand**. This guide aims to clarify how flow is influenced by the **immediate context level** and the **relevance** of descriptions within that context, helping readers navigate potential confusion surrounding these aspects.
 
 ---
 
-## Key Concepts
+###### Key Concepts
 
 Before delving into how flow operates, it's essential to understand several foundational terms in DT:
 
@@ -86,21 +100,21 @@ Before delving into how flow operates, it's essential to understand several foun
 
 ---
 
-## How Flow Is Influenced by Descriptive Demand and Context
+###### How Flow Is Influenced by Descriptive Demand and Context
 
-### 1. The Role of Descriptive Demand
+###### 1. The Role of Descriptive Demand
 
 - **Flow Emergence**: Flow arises when there's an **asymmetry in descriptive demand** between Things within a context.
 - **Foreground Requirement**: The foreground Thing must be **fully described**, including all relevant sub-components.
 - **Background Simplicity**: The background Thing requires only a **minimal description** relevant to the context.
 
-### 2. Immediate Context Level
+###### 2. Immediate Context Level
 
 - **Primary Comparison Point**: The immediate context level is where Things are first compared.
 - **Descriptive Demand Focus**: At this level, the descriptive demand is concentrated on aspects directly relevant to the context.
 - **Impact on Flow**: Differences in descriptive demand at this level have the most significant impact on flow.
 
-### 3. Relevance of Descriptions
+###### 3. Relevance of Descriptions
 
 - **Context-Specific Descriptions**: Only descriptions relevant to the context contribute to the descriptive demand affecting flow.
 - **Irrelevant Details**: Descriptions unrelated to the context do not significantly impact flow.
@@ -110,9 +124,9 @@ Before delving into how flow operates, it's essential to understand several foun
 
 ---
 
-## Illustrative Examples
+###### Illustrative Examples
 
-### Example 1: Equal Divisions with Shared Context
+###### Example 1: Equal Divisions with Shared Context
 
 **Context (X):**
 
@@ -127,7 +141,7 @@ Before delving into how flow operates, it's essential to understand several foun
   - **No Descriptive Demand Asymmetry**: All thirds are equally likely to become the foreground.
   - **Result**: **No inherent flow** favoring any particular Thing.
 
-### Example 2: Grouping with Relevant Sub-Contexts
+###### Example 2: Grouping with Relevant Sub-Contexts
 
 **Context (X):**
 
@@ -145,7 +159,7 @@ Before delving into how flow operates, it's essential to understand several foun
   - **Asymmetry in Descriptive Demand**: **E(D) > E(A)** within the spatial context.
   - **Result**: **(A)** is more likely to be the **foreground** due to lower descriptive demand.
 
-### Example 3: Irrelevant Descriptions Not Affecting Flow
+###### Example 3: Irrelevant Descriptions Not Affecting Flow
 
 **Context (X):**
 
@@ -164,7 +178,7 @@ Before delving into how flow operates, it's essential to understand several foun
 
 ---
 
-## Key Takeaways
+###### Key Takeaways
 
 1. **Flow Is Context-Dependent**: It is influenced by the descriptive demand required to fully describe a Thing within the **relevant context**.
 
@@ -180,13 +194,13 @@ Before delving into how flow operates, it's essential to understand several foun
 
 ---
 
-## Conclusion
+###### Conclusion
 
 Understanding flow in Description Theory requires recognizing how **descriptive demand** and **relevance** within a context influence whether a Thing becomes the foreground or background. By focusing on the immediate context level and considering only context-relevant descriptions, we can accurately assess the flow between Things. This approach helps avoid confusion and provides a clear framework for analyzing complex contexts with multiple layers and groupings.
 
 ---
 
-## Final Thoughts
+###### Final Thoughts
 
 When applying these principles:
 
@@ -196,6 +210,27 @@ When applying these principles:
 - **Determine Flow**: Analyze the asymmetry in descriptive demand to predict which Thing is more likely to become the foreground.
 
 By systematically applying these steps, readers can navigate complex contexts and understand how flow operates within Description Theory.
+````
+
+## 3.3 Finite Examples of Flow
+
+*Purpose: Work through equal and asymmetric finite contexts, including nested backgrounds, to show how Flow is expressed in the descriptions required for a simple foreground versus a composite foreground.*
+
+## 3.4 Directional and Spatial Contexts
+
+*Purpose: Present the staged construction of spatial contexts—from iterative one-directional backgrounds through bidirectional and higher-dimensional contexts—and distinguish diagonal associations as separate contexts. The placement of this application material remains open.*
+
+## 3.5 Thinks
+
+*Purpose: Explain the Think as a context-free pure contrast, its theoretical role in composing Things and defining `>`, and its distinction from Flow.*
+
+## 3.6 Bridge to Chapter 4
+
+*Purpose: Transition from the foundational discussion to later applications and identify where the preserved space, image, tone, hue, saturation, and video material belongs.*
+
+---
+
+**Remaining preserved draft/source material begins below. The former §3.2 source block has been moved under §3.2 References; the remaining material is retained for later sectioning.**
 
 ## 3.3 Examples and Clarifications of Flow
 
